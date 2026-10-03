@@ -1,4 +1,4 @@
-# Decision Tree – Classification
+# Decision Tree - Classification
 
 ## 📌 Project Overview
 
